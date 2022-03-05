@@ -27,7 +27,7 @@ int main()
         
     } while(len > 0);
     
-    printf("Frequency of each character after the text analysis..\n");
+    printf("Distribution of letters in corpus:\n");
     
     for(i = 0; i<26; ++i){
         // ASCII code of 'A' is 65.
